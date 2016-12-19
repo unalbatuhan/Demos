@@ -1,0 +1,6 @@
+c:\users\batuhan\documents\visual studio 2015\Projects\ConstEncap\ConstEncap\bin\Debug\ConstEncap.exe.config
+c:\users\batuhan\documents\visual studio 2015\Projects\ConstEncap\ConstEncap\bin\Debug\ConstEncap.exe
+c:\users\batuhan\documents\visual studio 2015\Projects\ConstEncap\ConstEncap\bin\Debug\ConstEncap.pdb
+c:\users\batuhan\documents\visual studio 2015\Projects\ConstEncap\ConstEncap\obj\Debug\ConstEncap.csprojResolveAssemblyReference.cache
+c:\users\batuhan\documents\visual studio 2015\Projects\ConstEncap\ConstEncap\obj\Debug\ConstEncap.exe
+c:\users\batuhan\documents\visual studio 2015\Projects\ConstEncap\ConstEncap\obj\Debug\ConstEncap.pdb
