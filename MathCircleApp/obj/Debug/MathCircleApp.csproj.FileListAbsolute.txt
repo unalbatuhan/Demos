@@ -1,0 +1,6 @@
+c:\users\batuhan\documents\visual studio 2015\Projects\MathCircleApp\MathCircleApp\bin\Debug\MathCircleApp.exe.config
+c:\users\batuhan\documents\visual studio 2015\Projects\MathCircleApp\MathCircleApp\bin\Debug\MathCircleApp.exe
+c:\users\batuhan\documents\visual studio 2015\Projects\MathCircleApp\MathCircleApp\bin\Debug\MathCircleApp.pdb
+c:\users\batuhan\documents\visual studio 2015\Projects\MathCircleApp\MathCircleApp\obj\Debug\MathCircleApp.csprojResolveAssemblyReference.cache
+c:\users\batuhan\documents\visual studio 2015\Projects\MathCircleApp\MathCircleApp\obj\Debug\MathCircleApp.exe
+c:\users\batuhan\documents\visual studio 2015\Projects\MathCircleApp\MathCircleApp\obj\Debug\MathCircleApp.pdb
