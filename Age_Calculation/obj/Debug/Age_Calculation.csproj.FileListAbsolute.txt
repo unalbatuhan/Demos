@@ -1,0 +1,2 @@
+c:\users\batuhan\documents\visual studio 2015\Projects\Age_Calculation\Age_Calculation\bin\Debug\Age_Calculation.exe.config
+c:\users\batuhan\documents\visual studio 2015\Projects\Age_Calculation\Age_Calculation\obj\Debug\Age_Calculation.csprojResolveAssemblyReference.cache
